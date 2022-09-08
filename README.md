@@ -11,4 +11,4 @@ O usuário também pode postar sua própria receita apenas clicando na pagina fe
 ### - Hooks
 ### - Material-ui
 
-## Link :https://obscene-hat.surge.sh/login
+## Link :https://obscene-hat.surge.sh/
